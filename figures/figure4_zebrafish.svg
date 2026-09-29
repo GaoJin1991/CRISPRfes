@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="496.063pt" height="538.583pt" viewBox="0 0 496.063 538.583">
+<title>Fig4 zebrafish JGG</title>
+<metadata>SgFES; SgFES manuscript revision</metadata>
+<rect width="100%" height="100%" fill="white"/>
+<text x="5.512" y="19.843" text-anchor="start" font-family="Arial" font-size="10.000" font-weight="normal" font-style="normal" fill="#222222">A</text>
+<text x="5.512" y="215.433" text-anchor="start" font-family="Arial" font-size="10.000" font-weight="normal" font-style="normal" fill="#222222">B</text>
+<text x="5.512" y="394.016" text-anchor="start" font-family="Arial" font-size="10.000" font-weight="normal" font-style="normal" fill="#222222">C</text>
+<line x1="38.583" y1="144.567" x2="223.228" y2="144.567" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="144.567" x2="38.583" y2="144.567" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="146.607" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.0</text>
+<line x1="38.583" y1="128.031" x2="223.228" y2="128.031" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="128.031" x2="38.583" y2="128.031" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="130.071" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.1</text>
+<line x1="38.583" y1="111.496" x2="223.228" y2="111.496" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="111.496" x2="38.583" y2="111.496" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="113.536" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.2</text>
+<line x1="38.583" y1="94.961" x2="223.228" y2="94.961" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="94.961" x2="38.583" y2="94.961" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="97.001" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.3</text>
+<line x1="38.583" y1="78.425" x2="223.228" y2="78.425" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="78.425" x2="38.583" y2="78.425" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="80.465" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.4</text>
+<line x1="38.583" y1="61.890" x2="223.228" y2="61.890" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="61.890" x2="38.583" y2="61.890" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="63.930" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.5</text>
+<line x1="38.583" y1="45.354" x2="223.228" y2="45.354" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="45.354" x2="38.583" y2="45.354" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="47.394" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.6</text>
+<line x1="38.583" y1="144.567" x2="38.583" y2="45.354" fill="none" stroke="#444444" stroke-width="0.600"/>
+<line x1="38.583" y1="144.567" x2="223.228" y2="144.567" fill="none" stroke="#444444" stroke-width="0.600"/>
+<text x="13.305" y="94.961" text-anchor="middle" font-family="Arial" font-size="6.700" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-90.000 13.305 94.961)">Spearman ρ (mean ± SD)</text>
+<text x="130.906" y="36.354" text-anchor="middle" font-family="Arial" font-size="7.600" font-weight="bold" font-style="normal" fill="#222222">Raw labels</text>
+<polygon points="42.891,144.567 65.049,144.567 65.049,79.665 42.891,79.665" fill="#9DB4CE" stroke="#333333" stroke-width="0.600"/>
+<line x1="53.970" y1="92.009" x2="53.970" y2="67.320" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="52.025" y1="92.009" x2="55.914" y2="92.009" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="52.025" y1="67.320" x2="55.914" y2="67.320" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="53.970" y="63.330" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.393</text>
+<text x="57.664" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 57.664 154.295)">SgFES-G1</text>
+<polygon points="73.665,144.567 95.823,144.567 95.823,78.765 73.665,78.765" fill="#3D6FA8" stroke="#333333" stroke-width="0.600"/>
+<line x1="84.744" y1="85.369" x2="84.744" y2="72.161" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="82.800" y1="85.369" x2="86.689" y2="85.369" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="82.800" y1="72.161" x2="86.689" y2="72.161" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="84.744" y="68.171" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.398</text>
+<text x="88.438" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 88.438 154.295)">SgFES-G2</text>
+<polygon points="104.440,144.567 126.597,144.567 126.597,75.641 104.440,75.641" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<line x1="115.518" y1="82.169" x2="115.518" y2="69.113" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="113.574" y1="82.169" x2="117.463" y2="82.169" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="113.574" y1="69.113" x2="117.463" y2="69.113" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="115.518" y="65.123" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.417</text>
+<text x="119.212" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 119.212 154.295)">SgFES-G3 τ=0.80</text>
+<polygon points="135.214,144.567 157.371,144.567 157.371,75.498 135.214,75.498" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<line x1="146.293" y1="82.436" x2="146.293" y2="68.560" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="144.348" y1="82.436" x2="148.237" y2="82.436" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="144.348" y1="68.560" x2="148.237" y2="68.560" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="146.293" y="64.570" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.418</text>
+<text x="149.987" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 149.987 154.295)">SgFES-G3 τ=0.85</text>
+<polygon points="165.988,144.567 188.146,144.567 188.146,75.195 165.988,75.195" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<line x1="177.067" y1="82.155" x2="177.067" y2="68.235" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="175.122" y1="82.155" x2="179.011" y2="82.155" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="175.122" y1="68.235" x2="179.011" y2="68.235" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="177.067" y="64.245" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.420</text>
+<text x="180.761" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 180.761 154.295)">SgFES-G3 τ=0.90</text>
+<polygon points="196.762,144.567 218.920,144.567 218.920,75.389 196.762,75.389" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<line x1="207.841" y1="82.266" x2="207.841" y2="68.512" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="205.897" y1="82.266" x2="209.786" y2="82.266" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="205.897" y1="68.512" x2="209.786" y2="68.512" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="207.841" y="64.522" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.418</text>
+<text x="211.535" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 211.535 154.295)">SgFES-G3 τ=0.95</text>
+<line x1="294.882" y1="144.567" x2="479.528" y2="144.567" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="144.567" x2="294.882" y2="144.567" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="146.607" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.0</text>
+<line x1="294.882" y1="128.031" x2="479.528" y2="128.031" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="128.031" x2="294.882" y2="128.031" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="130.071" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.1</text>
+<line x1="294.882" y1="111.496" x2="479.528" y2="111.496" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="111.496" x2="294.882" y2="111.496" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="113.536" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.2</text>
+<line x1="294.882" y1="94.961" x2="479.528" y2="94.961" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="94.961" x2="294.882" y2="94.961" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="97.001" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.3</text>
+<line x1="294.882" y1="78.425" x2="479.528" y2="78.425" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="78.425" x2="294.882" y2="78.425" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="80.465" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.4</text>
+<line x1="294.882" y1="61.890" x2="479.528" y2="61.890" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="61.890" x2="294.882" y2="61.890" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="63.930" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.5</text>
+<line x1="294.882" y1="45.354" x2="479.528" y2="45.354" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="45.354" x2="294.882" y2="45.354" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="47.394" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.6</text>
+<line x1="294.882" y1="144.567" x2="294.882" y2="45.354" fill="none" stroke="#444444" stroke-width="0.600"/>
+<line x1="294.882" y1="144.567" x2="479.528" y2="144.567" fill="none" stroke="#444444" stroke-width="0.600"/>
+<text x="387.205" y="36.354" text-anchor="middle" font-family="Arial" font-size="7.600" font-weight="bold" font-style="normal" fill="#222222">Normalized labels</text>
+<polygon points="299.190,144.567 321.348,144.567 321.348,76.455 299.190,76.455" fill="#9DB4CE" stroke="#333333" stroke-width="0.600"/>
+<line x1="310.269" y1="85.673" x2="310.269" y2="67.238" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="308.325" y1="85.673" x2="312.213" y2="85.673" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="308.325" y1="67.238" x2="312.213" y2="67.238" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="310.269" y="63.248" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.412</text>
+<text x="313.963" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 313.963 154.295)">SgFES-G1</text>
+<polygon points="329.965,144.567 352.122,144.567 352.122,73.142 329.965,73.142" fill="#3D6FA8" stroke="#333333" stroke-width="0.600"/>
+<line x1="341.043" y1="77.748" x2="341.043" y2="68.535" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="339.099" y1="77.748" x2="342.988" y2="77.748" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="339.099" y1="68.535" x2="342.988" y2="68.535" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="341.043" y="64.545" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.432</text>
+<text x="344.737" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 344.737 154.295)">SgFES-G2</text>
+<polygon points="360.739,144.567 382.896,144.567 382.896,68.894 360.739,68.894" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<line x1="371.818" y1="73.365" x2="371.818" y2="64.423" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="369.873" y1="73.365" x2="373.762" y2="73.365" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="369.873" y1="64.423" x2="373.762" y2="64.423" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="371.818" y="60.433" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.458</text>
+<text x="375.512" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 375.512 154.295)">SgFES-G3 τ=0.80</text>
+<polygon points="391.513,144.567 413.671,144.567 413.671,68.702 391.513,68.702" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<line x1="402.592" y1="73.699" x2="402.592" y2="63.704" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="400.647" y1="73.699" x2="404.536" y2="73.699" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="400.647" y1="63.704" x2="404.536" y2="63.704" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="402.592" y="59.714" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.459</text>
+<text x="406.286" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 406.286 154.295)">SgFES-G3 τ=0.85</text>
+<polygon points="422.287,144.567 444.445,144.567 444.445,69.121 422.287,69.121" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<line x1="433.366" y1="74.555" x2="433.366" y2="63.687" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="431.422" y1="74.555" x2="435.311" y2="74.555" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="431.422" y1="63.687" x2="435.311" y2="63.687" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="433.366" y="59.697" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.456</text>
+<text x="437.060" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 437.060 154.295)">SgFES-G3 τ=0.90</text>
+<polygon points="453.062,144.567 475.219,144.567 475.219,68.903 453.062,68.903" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<line x1="464.140" y1="74.418" x2="464.140" y2="63.388" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="462.196" y1="74.418" x2="466.085" y2="74.418" fill="none" stroke="#333333" stroke-width="0.700"/>
+<line x1="462.196" y1="63.388" x2="466.085" y2="63.388" fill="none" stroke="#333333" stroke-width="0.700"/>
+<text x="464.140" y="59.398" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.458</text>
+<text x="467.834" y="154.295" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 467.834 154.295)">SgFES-G3 τ=0.95</text>
+<line x1="38.583" y1="325.984" x2="223.228" y2="325.984" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="325.984" x2="38.583" y2="325.984" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="328.024" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.0</text>
+<line x1="38.583" y1="308.166" x2="223.228" y2="308.166" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="308.166" x2="38.583" y2="308.166" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="310.206" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.2</text>
+<line x1="38.583" y1="290.349" x2="223.228" y2="290.349" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="290.349" x2="38.583" y2="290.349" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="292.389" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.4</text>
+<line x1="38.583" y1="272.531" x2="223.228" y2="272.531" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="272.531" x2="38.583" y2="272.531" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="274.571" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.6</text>
+<line x1="38.583" y1="254.713" x2="223.228" y2="254.713" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="254.713" x2="38.583" y2="254.713" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="256.753" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.8</text>
+<line x1="38.583" y1="236.895" x2="223.228" y2="236.895" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="236.895" x2="38.583" y2="236.895" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="238.935" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">1.0</text>
+<line x1="38.583" y1="325.984" x2="38.583" y2="232.441" fill="none" stroke="#444444" stroke-width="0.600"/>
+<line x1="38.583" y1="325.984" x2="223.228" y2="325.984" fill="none" stroke="#444444" stroke-width="0.600"/>
+<text x="13.305" y="279.213" text-anchor="middle" font-family="Arial" font-size="6.700" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-90.000 13.305 279.213)">Mean pairwise Jaccard</text>
+<text x="130.906" y="223.441" text-anchor="middle" font-family="Arial" font-size="7.600" font-weight="bold" font-style="normal" fill="#222222">Selection reproducibility</text>
+<polygon points="42.891,325.984 65.049,325.984 65.049,264.205 42.891,264.205" fill="#9DB4CE" stroke="#333333" stroke-width="0.600"/>
+<text x="53.970" y="260.215" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.693</text>
+<text x="57.664" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 57.664 335.712)">SgFES-G1</text>
+<polygon points="73.665,325.984 95.823,325.984 95.823,258.989 73.665,258.989" fill="#3D6FA8" stroke="#333333" stroke-width="0.600"/>
+<text x="84.744" y="254.999" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.752</text>
+<text x="88.438" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 88.438 335.712)">SgFES-G2</text>
+<polygon points="104.440,325.984 126.597,325.984 126.597,248.653 104.440,248.653" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="115.518" y="244.663" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.868</text>
+<text x="119.212" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 119.212 335.712)">SgFES-G3 τ=0.80</text>
+<polygon points="135.214,325.984 157.371,325.984 157.371,248.210 135.214,248.210" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="146.293" y="244.220" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.873</text>
+<text x="149.987" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 149.987 335.712)">SgFES-G3 τ=0.85</text>
+<polygon points="165.988,325.984 188.146,325.984 188.146,247.810 165.988,247.810" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="177.067" y="243.820" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.877</text>
+<text x="180.761" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 180.761 335.712)">SgFES-G3 τ=0.90</text>
+<polygon points="196.762,325.984 218.920,325.984 218.920,250.693 196.762,250.693" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="207.841" y="246.703" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.845</text>
+<text x="211.535" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 211.535 335.712)">SgFES-G3 τ=0.95</text>
+<line x1="294.882" y1="325.984" x2="479.528" y2="325.984" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="325.984" x2="294.882" y2="325.984" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="328.024" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.0</text>
+<line x1="294.882" y1="309.573" x2="479.528" y2="309.573" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="309.573" x2="294.882" y2="309.573" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="311.613" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">500.0</text>
+<line x1="294.882" y1="293.162" x2="479.528" y2="293.162" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="293.162" x2="294.882" y2="293.162" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="295.202" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">1000.0</text>
+<line x1="294.882" y1="276.751" x2="479.528" y2="276.751" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="276.751" x2="294.882" y2="276.751" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="278.791" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">1500.0</text>
+<line x1="294.882" y1="260.340" x2="479.528" y2="260.340" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="260.340" x2="294.882" y2="260.340" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="262.380" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">2000.0</text>
+<line x1="294.882" y1="243.929" x2="479.528" y2="243.929" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="292.937" y1="243.929" x2="294.882" y2="243.929" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="290.993" y="245.969" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">2500.0</text>
+<line x1="294.882" y1="325.984" x2="294.882" y2="232.441" fill="none" stroke="#444444" stroke-width="0.600"/>
+<line x1="294.882" y1="325.984" x2="479.528" y2="325.984" fill="none" stroke="#444444" stroke-width="0.600"/>
+<text x="269.604" y="279.213" text-anchor="middle" font-family="Arial" font-size="6.700" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-90.000 269.604 279.213)">Mean selected features</text>
+<text x="387.205" y="223.441" text-anchor="middle" font-family="Arial" font-size="7.600" font-weight="bold" font-style="normal" fill="#222222">Selected feature dimensionality</text>
+<polygon points="269.604,329.984 291.965,329.984 291.965,229.441 269.604,229.441" fill="#FFFFFF" stroke="none" stroke-width="0.500"/>
+<text x="290.993" y="328.024" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0</text>
+<text x="290.993" y="311.613" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">500</text>
+<text x="290.993" y="295.202" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">1000</text>
+<text x="290.993" y="278.791" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">1500</text>
+<text x="290.993" y="262.380" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">2000</text>
+<text x="290.993" y="245.969" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">2500</text>
+<polygon points="299.190,325.984 321.348,325.984 321.348,271.106 299.190,271.106" fill="#9DB4CE" stroke="#333333" stroke-width="0.600"/>
+<text x="313.963" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 313.963 335.712)">SgFES-G1</text>
+<polygon points="329.965,325.984 352.122,325.984 352.122,244.618 329.965,244.618" fill="#3D6FA8" stroke="#333333" stroke-width="0.600"/>
+<text x="344.737" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 344.737 335.712)">SgFES-G2</text>
+<polygon points="360.739,325.984 382.896,325.984 382.896,270.101 360.739,270.101" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="375.512" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 375.512 335.712)">SgFES-G3 τ=0.80</text>
+<polygon points="391.513,325.984 413.671,325.984 413.671,275.313 391.513,275.313" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="406.286" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 406.286 335.712)">SgFES-G3 τ=0.85</text>
+<polygon points="422.287,325.984 444.445,325.984 444.445,279.062 422.287,279.062" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="437.060" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 437.060 335.712)">SgFES-G3 τ=0.90</text>
+<polygon points="453.062,325.984 475.219,325.984 475.219,286.302 453.062,286.302" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="467.834" y="335.712" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-38.000 467.834 335.712)">SgFES-G3 τ=0.95</text>
+<text x="310.269" y="267.106" text-anchor="middle" font-family="Arial" font-size="6.400" font-weight="normal" font-style="normal" fill="#222222">1672</text>
+<text x="341.043" y="240.618" text-anchor="middle" font-family="Arial" font-size="6.400" font-weight="normal" font-style="normal" fill="#222222">2479</text>
+<text x="371.818" y="266.101" text-anchor="middle" font-family="Arial" font-size="6.400" font-weight="normal" font-style="normal" fill="#222222">1703</text>
+<text x="402.592" y="271.313" text-anchor="middle" font-family="Arial" font-size="6.400" font-weight="normal" font-style="normal" fill="#222222">1544</text>
+<text x="433.366" y="275.062" text-anchor="middle" font-family="Arial" font-size="6.400" font-weight="normal" font-style="normal" fill="#222222">1430</text>
+<text x="464.140" y="282.302" text-anchor="middle" font-family="Arial" font-size="6.400" font-weight="normal" font-style="normal" fill="#222222">1209</text>
+<line x1="38.583" y1="493.228" x2="479.528" y2="493.228" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="493.228" x2="38.583" y2="493.228" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="495.268" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.0</text>
+<line x1="38.583" y1="478.549" x2="479.528" y2="478.549" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="478.549" x2="38.583" y2="478.549" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="480.589" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.1</text>
+<line x1="38.583" y1="463.870" x2="479.528" y2="463.870" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="463.870" x2="38.583" y2="463.870" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="465.910" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.2</text>
+<line x1="38.583" y1="449.190" x2="479.528" y2="449.190" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="449.190" x2="38.583" y2="449.190" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="451.230" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.3</text>
+<line x1="38.583" y1="434.511" x2="479.528" y2="434.511" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="434.511" x2="38.583" y2="434.511" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="436.551" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.4</text>
+<line x1="38.583" y1="419.831" x2="479.528" y2="419.831" fill="none" stroke="#DDDDDD" stroke-width="0.500"/>
+<line x1="36.638" y1="419.831" x2="38.583" y2="419.831" fill="none" stroke="#444444" stroke-width="0.500"/>
+<text x="34.694" y="421.871" text-anchor="end" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#222222">0.5</text>
+<line x1="38.583" y1="493.228" x2="38.583" y2="411.024" fill="none" stroke="#444444" stroke-width="0.600"/>
+<line x1="38.583" y1="493.228" x2="479.528" y2="493.228" fill="none" stroke="#444444" stroke-width="0.600"/>
+<text x="13.305" y="452.126" text-anchor="middle" font-family="Arial" font-size="6.700" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-90.000 13.305 452.126)">Spearman ρ</text>
+<polygon points="47.402,493.228 92.756,493.228 92.756,432.762 47.402,432.762" fill="#9DB4CE" stroke="#333333" stroke-width="0.600"/>
+<text x="70.079" y="428.772" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.412</text>
+<text x="71.787" y="504.603" text-anchor="end" font-family="Arial" font-size="6.600" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-15.000 71.787 504.603)">SgFES-G1</text>
+<polygon points="110.394,493.228 155.748,493.228 155.748,429.820 110.394,429.820" fill="#3D6FA8" stroke="#333333" stroke-width="0.600"/>
+<text x="133.071" y="425.830" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.432</text>
+<text x="134.779" y="504.603" text-anchor="end" font-family="Arial" font-size="6.600" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-15.000 134.779 504.603)">SgFES-G2</text>
+<polygon points="173.386,493.228 218.740,493.228 218.740,426.251 173.386,426.251" fill="#C0392B" stroke="#333333" stroke-width="0.600"/>
+<text x="196.063" y="422.261" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.456</text>
+<text x="197.771" y="504.603" text-anchor="end" font-family="Arial" font-size="6.600" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-15.000 197.771 504.603)">SgFES-G3</text>
+<polygon points="236.378,493.228 281.732,493.228 281.732,469.418 236.378,469.418" fill="#D5D8DC" stroke="#333333" stroke-width="0.600"/>
+<text x="259.055" y="465.428" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.162</text>
+<text x="260.763" y="504.603" text-anchor="end" font-family="Arial" font-size="6.600" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-15.000 260.763 504.603)">SSC</text>
+<polygon points="299.370,493.228 344.724,493.228 344.724,471.356 299.370,471.356" fill="#D5D8DC" stroke="#333333" stroke-width="0.600"/>
+<text x="322.047" y="467.366" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.149</text>
+<text x="323.755" y="504.603" text-anchor="end" font-family="Arial" font-size="6.600" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-15.000 323.755 504.603)">sgRNA Scorer</text>
+<polygon points="362.362,493.228 407.717,493.228 407.717,474.409 362.362,474.409" fill="#D5D8DC" stroke="#333333" stroke-width="0.600"/>
+<text x="385.039" y="470.419" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.128</text>
+<text x="386.748" y="504.603" text-anchor="end" font-family="Arial" font-size="6.600" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-15.000 386.748 504.603)">Wang</text>
+<polygon points="425.354,493.228 470.709,493.228 470.709,487.327 425.354,487.327" fill="#D5D8DC" stroke="#333333" stroke-width="0.600"/>
+<text x="448.031" y="483.337" text-anchor="middle" font-family="Arial" font-size="5.500" font-weight="normal" font-style="normal" fill="#222222">0.040</text>
+<text x="449.740" y="504.603" text-anchor="end" font-family="Arial" font-size="6.600" font-weight="normal" font-style="normal" fill="#222222" transform="rotate(-15.000 449.740 504.603)">sgRNA Designer</text>
+<polygon points="96.457,402.185 103.262,402.185 103.262,397.185 96.457,397.185" fill="#9DB4CE" stroke="#333333" stroke-width="0.500"/>
+<text x="106.179" y="401.585" text-anchor="start" font-family="Arial" font-size="6.200" font-weight="normal" font-style="normal" fill="#222222">SgFES-G1</text>
+<polygon points="142.129,402.185 148.934,402.185 148.934,397.185 142.129,397.185" fill="#3D6FA8" stroke="#333333" stroke-width="0.500"/>
+<text x="151.851" y="401.585" text-anchor="start" font-family="Arial" font-size="6.200" font-weight="normal" font-style="normal" fill="#222222">SgFES-G2</text>
+<polygon points="187.800,402.185 194.606,402.185 194.606,397.185 187.800,397.185" fill="#C0392B" stroke="#333333" stroke-width="0.500"/>
+<text x="197.523" y="401.585" text-anchor="start" font-family="Arial" font-size="6.200" font-weight="normal" font-style="normal" fill="#222222">SgFES-G3 (τ = 0.90)</text>
+<polygon points="260.144,402.185 266.950,402.185 266.950,397.185 260.144,397.185" fill="#D5D8DC" stroke="#333333" stroke-width="0.500"/>
+<text x="269.866" y="401.585" text-anchor="start" font-family="Arial" font-size="6.200" font-weight="normal" font-style="normal" fill="#222222">External tools</text>
+<text x="479.528" y="14.173" text-anchor="end" font-family="Arial" font-size="6.500" font-weight="normal" font-style="normal" fill="#222222">CRISPRz, n = 1,173</text>
+</svg>

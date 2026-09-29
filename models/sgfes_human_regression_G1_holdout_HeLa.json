@@ -1,0 +1,26 @@
+{
+  "format": "SgFES-model-v1",
+  "task": "regression",
+  "group": "G1",
+  "modules": [
+    "module1",
+    "module2",
+    "module3"
+  ],
+  "selection": "broad",
+  "tau": null,
+  "B": null,
+  "svm": {
+    "kernel": "rbf",
+    "C": 10.0,
+    "gamma": 0.001
+  },
+  "n_train": 6315,
+  "trained_at": "2026-09-02 15:26:43",
+  "source_data": "three_cell_lines.csv",
+  "held_out": "HeLa",
+  "label_zscored": false,
+  "label_norm": null,
+  "n_features_total": 7584,
+  "n_selected_features": 2012
+}

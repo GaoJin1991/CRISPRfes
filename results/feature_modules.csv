@@ -1,0 +1,13 @@
+module,name,composition,dimensions
+FM1,Position-independent k-mers,Counts of 1-4-mers in the 23-nt sequence,340
+FM2,Position-specific encoding,Indicators for 1-4-mers at each start position,6908
+FM3,Gapped dinucleotides,Dinucleotide counts at gaps 1-21,336
+FM4,Spacer k-mers,Spacer 1-4-mers and composition summaries,370
+FM5,Extended positional encoding,Spacer mononucleotide and dinucleotide indicators,426
+FM6,Regional gapped dinucleotides,Gapped dinucleotides in five sequence regions,480
+FM7,Regional summaries,Composition and complexity statistics in five regions,135
+FM8,PAM junction,PAM and spacer-PAM junction motifs,192
+FM9,Thermodynamic proxies,Melting-temperature and stability proxies,45
+FM10,Secondary-structure proxies,Self-complementarity and GC asymmetry,5
+FM11,Homopolymers and complexity,Runs repeats entropy and low-complexity indicators,15
+FM12,Interaction terms,Cross-module products and junction interactions,17

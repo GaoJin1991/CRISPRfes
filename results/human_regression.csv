@@ -1,0 +1,25 @@
+cell_line,method,spearman_mean,spearman_sd,jaccard,tau,best_spearman,best_tau
+HCT116,G1,0.657,0.012,0.759,,,
+HCT116,G2,0.686,0.014,0.843,,,
+HCT116,G3,0.698,0.014,0.940,0.90,0.699,0.80
+HCT116,CRISPRscan,0.280,,,,,
+HCT116,SSC,0.252,,,,,
+HCT116,Wang score,0.244,,,,,
+HCT116,sgRNA Scorer,0.220,,,,,
+HCT116,WU-CRISPR,0.215,,,,,
+HeLa,G1,0.454,0.031,0.725,,,
+HeLa,G2,0.488,0.033,0.814,,,
+HeLa,G3,0.537,0.025,0.907,0.90,0.538,0.85
+HeLa,CRISPRscan,0.213,,,,,
+HeLa,SSC,0.200,,,,,
+HeLa,Wang score,0.192,,,,,
+HeLa,sgRNA Scorer,0.159,,,,,
+HeLa,WU-CRISPR,0.141,,,,,
+HL60,G1,0.264,0.026,0.784,,,
+HL60,G2,0.237,0.034,0.867,,,
+HL60,G3,0.330,0.048,0.932,0.90,0.340,0.95
+HL60,CRISPRscan,0.441,,,,,
+HL60,SSC,0.358,,,,,
+HL60,Wang score,0.329,,,,,
+HL60,sgRNA Scorer,0.305,,,,,
+HL60,WU-CRISPR,0.268,,,,,

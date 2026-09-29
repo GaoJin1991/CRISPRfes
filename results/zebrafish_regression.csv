@@ -1,0 +1,4 @@
+group,spearman_mean,spearman_sd,jaccard,n_features
+G1,0.412,0.056,0.693,1672
+G2,0.432,0.028,0.752,2479
+G3,0.456,0.033,0.877,1430

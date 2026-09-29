@@ -1,0 +1,33 @@
+{
+  "format": "SgFES-model-v1",
+  "task": "regression",
+  "group": "G3",
+  "modules": [
+    "module1",
+    "module2",
+    "module3",
+    "module4",
+    "module5",
+    "module6",
+    "module7",
+    "module8",
+    "module9",
+    "module10",
+    "module11",
+    "module12"
+  ],
+  "selection": "stability",
+  "tau": 0.9,
+  "B": 50,
+  "svm": {
+    "kernel": "rbf",
+    "C": 10.0,
+    "gamma": 0.001
+  },
+  "n_train": 14416,
+  "trained_at": "2026-09-02 13:21:24",
+  "source_data": "three_cell_lines.csv",
+  "label_zscored": false,
+  "n_features_total": 9269,
+  "n_selected_features": 2324
+}

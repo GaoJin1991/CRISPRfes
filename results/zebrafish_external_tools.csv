@@ -1,0 +1,8 @@
+method,target_species,spearman
+sgRNA Designer (Doench 2014),human/mouse,0.040
+Wang (2014),human,0.128
+sgRNA Scorer (Chari 2015),cross-species,0.149
+SSC (Xu 2015),human/mouse,0.162
+SgFES-G1,cross-species,0.412
+SgFES-G2,cross-species,0.432
+SgFES-G3,cross-species,0.456
