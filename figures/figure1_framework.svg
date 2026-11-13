@@ -1,14 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="496.063pt" height="564.520pt" viewBox="0 0 496.063 564.520">
-<title>Fig1 CRISPRfes framework JGG</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="496.063pt" height="582.520pt" viewBox="0 0 496.063 582.520">
+<title>CRISPRfes feature extraction and selection</title>
 <metadata>CRISPRfes; CRISPRfes manuscript revision</metadata>
 <rect width="100%" height="100%" fill="white"/>
-<rect x="12.402" y="15.874" width="471.260" height="47.622" rx="4.961" fill="#F2F6F8" stroke="#5A7A88" stroke-width="0.800"/>
-<rect x="12.402" y="78.378" width="471.260" height="90.283" rx="4.465" fill="#EEF5FC" stroke="#4776AC" stroke-width="0.800"/>
-<rect x="12.402" y="176.598" width="471.260" height="165.685" rx="4.465" fill="#EEF7F1" stroke="#388458" stroke-width="0.800"/>
-<rect x="12.402" y="350.220" width="471.260" height="90.283" rx="4.465" fill="#FDF1ED" stroke="#C34336" stroke-width="0.800"/>
-<rect x="12.402" y="457.370" width="277.795" height="99.213" rx="4.465" fill="#F5F1FB" stroke="#6C4FA1" stroke-width="0.800"/>
-<rect x="300.118" y="457.370" width="183.543" height="99.213" rx="4.465" fill="#F7F7F7" stroke="#9A9A9A" stroke-width="0.800"/>
+<rect x="12.402" y="15.874" width="471.260" height="65.622" rx="4.961" fill="#F2F6F8" stroke="#5A7A88" stroke-width="0.800"/>
 <polygon points="54.071,39.685 69.588,39.685 69.588,27.780 54.071,27.780" fill="#F9EBD5" stroke="none" stroke-width="0.800"/>
 <polygon points="70.937,39.685 86.454,39.685 86.454,27.780 70.937,27.780" fill="#D5ECDE" stroke="none" stroke-width="0.800"/>
 <polygon points="87.803,39.685 103.320,39.685 103.320,27.780 87.803,27.780" fill="#D5E2F1" stroke="none" stroke-width="0.800"/>
@@ -30,6 +25,43 @@
 <polygon points="357.661,39.685 373.178,39.685 373.178,27.780 357.661,27.780" fill="#D5ECDE" stroke="none" stroke-width="0.800"/>
 <polygon points="374.528,39.685 390.044,39.685 390.044,27.780 374.528,27.780" fill="#F9EBD5" stroke="none" stroke-width="0.800"/>
 <polygon points="391.394,40.280 441.992,40.280 441.992,27.184 391.394,27.184" fill="#FFF3C4" stroke="#C9A227" stroke-width="0.900"/>
+<text x="48.118" y="36.044" text-anchor="end" font-family="Arial" font-size="6.800" font-weight="bold" font-style="normal" fill="#4A4A4A">5′</text>
+<text x="61.829" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
+<text x="78.695" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2E9E5B">A</text>
+<text x="95.562" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
+<text x="112.428" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
+<text x="129.294" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
+<text x="146.160" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
+<text x="163.026" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#D0483C">T</text>
+<text x="179.892" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
+<text x="196.758" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
+<text x="213.625" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2E9E5B">A</text>
+<text x="230.491" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2E9E5B">A</text>
+<text x="247.357" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
+<text x="264.223" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#D0483C">T</text>
+<text x="281.089" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
+<text x="297.955" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
+<text x="314.821" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
+<text x="331.688" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
+<text x="348.554" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
+<text x="365.420" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2E9E5B">A</text>
+<text x="382.286" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
+<text x="399.152" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#D0483C">T</text>
+<text x="416.018" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
+<text x="432.884" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
+<text x="447.945" y="36.044" text-anchor="start" font-family="Arial" font-size="6.800" font-weight="bold" font-style="normal" fill="#4A4A4A">3′</text>
+<text x="62.504" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">1</text>
+<text x="129.969" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">5</text>
+<text x="214.299" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">10</text>
+<text x="298.630" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">15</text>
+<text x="382.961" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">20</text>
+<text x="248.031" y="23.371" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#555555">DNA input: 20 nt protospacer + 3 nt PAM; no flanking, epigenetic or species-specific inputs</text>
+<text x="13.890" y="11.321" text-anchor="start" font-family="Arial" font-size="10.000" font-weight="normal" font-style="normal" fill="#111111">(a)</text>
+<g transform="translate(0,18)"><rect x="12.402" y="78.378" width="471.260" height="90.283" rx="4.465" fill="#EEF5FC" stroke="#4776AC" stroke-width="0.800"/>
+<rect x="12.402" y="176.598" width="471.260" height="165.685" rx="4.465" fill="#EEF7F1" stroke="#388458" stroke-width="0.800"/>
+<rect x="12.402" y="350.220" width="471.260" height="90.283" rx="4.465" fill="#FDF1ED" stroke="#C34336" stroke-width="0.800"/>
+<rect x="12.402" y="457.370" width="277.795" height="99.213" rx="4.465" fill="#F5F1FB" stroke="#6C4FA1" stroke-width="0.800"/>
+<rect x="300.118" y="457.370" width="183.543" height="99.213" rx="4.465" fill="#F7F7F7" stroke="#9A9A9A" stroke-width="0.800"/>
 <rect x="22.323" y="94.252" width="145.181" height="68.457" rx="2.480" fill="#FFFFFF" stroke="#3D6FA8" stroke-width="0.800"/>
 <polygon points="29.010,131.100 35.073,131.100 35.073,121.873 29.010,121.873" fill="#F9EBD5" stroke="none" stroke-width="0.800"/>
 <polygon points="35.600,131.100 41.663,131.100 41.663,121.873 35.600,121.873" fill="#D5ECDE" stroke="none" stroke-width="0.800"/>
@@ -136,43 +168,6 @@
 <polygon points="341.385,407.248 346.895,407.248 346.895,397.406 341.385,397.406" fill="#D5ECDE" stroke="none" stroke-width="0.800"/>
 <polygon points="347.374,407.248 352.884,407.248 352.884,397.406 347.374,397.406" fill="#D5E2F1" stroke="none" stroke-width="0.800"/>
 <rect x="366.839" y="366.094" width="106.902" height="68.457" rx="2.480" fill="#FFFFFF" stroke="#C0392B" stroke-width="0.800"/>
-<text x="48.118" y="36.044" text-anchor="end" font-family="Arial" font-size="6.800" font-weight="bold" font-style="normal" fill="#4A4A4A">5′</text>
-<text x="61.829" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
-<text x="78.695" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2E9E5B">A</text>
-<text x="95.562" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
-<text x="112.428" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
-<text x="129.294" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
-<text x="146.160" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
-<text x="163.026" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#D0483C">T</text>
-<text x="179.892" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
-<text x="196.758" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
-<text x="213.625" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2E9E5B">A</text>
-<text x="230.491" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2E9E5B">A</text>
-<text x="247.357" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
-<text x="264.223" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#D0483C">T</text>
-<text x="281.089" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
-<text x="297.955" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
-<text x="314.821" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
-<text x="331.688" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2D6FB8">C</text>
-<text x="348.554" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
-<text x="365.420" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#2E9E5B">A</text>
-<text x="382.286" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
-<text x="399.152" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#D0483C">T</text>
-<text x="416.018" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
-<text x="432.884" y="36.452" text-anchor="middle" font-family="Arial" font-size="8.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
-<text x="447.945" y="36.044" text-anchor="start" font-family="Arial" font-size="6.800" font-weight="bold" font-style="normal" fill="#4A4A4A">3′</text>
-<text x="62.504" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">1</text>
-<text x="129.969" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">5</text>
-<text x="214.299" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">10</text>
-<text x="298.630" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">15</text>
-<text x="382.961" y="45.850" text-anchor="middle" font-family="Arial" font-size="5.000" font-weight="normal" font-style="normal" fill="#8A8A8A">20</text>
-<polygon points="54.071,53.575 222.732,53.575 222.732,48.118 54.071,48.118" fill="#DCE7F1" stroke="none" stroke-width="0.800"/>
-<text x="138.402" y="60.575" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#3A3A3A">PAM-distal (1–10)</text>
-<polygon points="222.732,53.575 391.394,53.575 391.394,48.118 222.732,48.118" fill="#F8DFD6" stroke="none" stroke-width="0.800"/>
-<text x="307.063" y="60.575" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#3A3A3A">seed / PAM-proximal (11–20)</text>
-<polygon points="391.394,53.575 441.992,53.575 441.992,48.118 391.394,48.118" fill="#F8ECC8" stroke="none" stroke-width="0.800"/>
-<text x="416.693" y="60.575" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#3A3A3A">PAM</text>
-<text x="248.031" y="23.371" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="normal" font-style="normal" fill="#555555">DNA input: 20 nt protospacer + 3 nt PAM; no flanking, epigenetic or species-specific inputs</text>
 <text x="20.339" y="89.123" text-anchor="start" font-family="Arial" font-size="6.800" font-weight="bold" font-style="normal" fill="#1F4E79">FM1–FM3 · Classical sequence encodings reused (7584 dim)</text>
 <rect x="22.323" y="94.252" width="145.181" height="10.417" rx="2.480" fill="#3D6FA8" stroke="none" stroke-width="0.500"/>
 <text x="32.041" y="128.526" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="bold" font-style="normal" fill="#E0992B">G</text>
@@ -694,12 +689,11 @@
 <polygon points="257.539,407.863 280.297,407.863 280.297,396.791 257.539,396.791" fill="none" stroke="#C0392B" stroke-width="0.900"/>
 <polygon points="293.473,407.863 316.231,407.863 316.231,396.791 293.473,396.791" fill="none" stroke="#C0392B" stroke-width="0.900"/>
 <polygon points="317.429,407.863 340.187,407.863 340.187,396.791 317.429,396.791" fill="none" stroke="#C0392B" stroke-width="0.900"/>
-<text x="388.688" y="400.676" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="bold" font-style="normal" fill="#2E7D4F">GC%</text>
-<text x="439.658" y="400.676" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="bold" font-style="normal" fill="#C0392B">ΔG</text>
-<text x="414.173" y="414.209" text-anchor="middle" font-family="Arial" font-size="6.000" font-weight="bold" font-style="normal" fill="#C0392B">GC% · ΔG</text>
+<text x="388.688" y="400.676" text-anchor="middle" font-family="Arial" font-size="5.4" font-weight="bold" font-style="normal" fill="#2E7D4F">seed Tm</text>
+<text x="439.658" y="400.676" text-anchor="middle" font-family="Arial" font-size="5.4" font-weight="bold" font-style="normal" fill="#C0392B">5′ Tm</text>
+<text x="414.173" y="414.209" text-anchor="middle" font-family="Arial" font-size="5.1" font-weight="bold" font-style="normal" fill="#C0392B">seed Tm × 5′ Tm</text>
 <line x1="213.307" y1="502.301" x2="270.850" y2="502.301" fill="none" stroke="#C0392B" stroke-width="1.000" stroke-dasharray="3,2"/>
-<text x="13.890" y="11.321" text-anchor="start" font-family="Arial" font-size="10.000" font-weight="normal" font-style="normal" fill="#111111">(a)</text>
 <text x="13.890" y="73.825" text-anchor="start" font-family="Arial" font-size="10.000" font-weight="normal" font-style="normal" fill="#111111">(b)</text>
 <text x="13.890" y="452.817" text-anchor="start" font-family="Arial" font-size="10.000" font-weight="normal" font-style="normal" fill="#111111">(c)</text>
 <text x="301.606" y="452.817" text-anchor="start" font-family="Arial" font-size="10.000" font-weight="normal" font-style="normal" fill="#111111">(d)</text>
-</svg>
+</g><rect x="54.071" y="48.1" width="168.661" height="4.2" fill="#DCE7F1"/><text x="138.402" y="59.1" text-anchor="middle" font-family="Arial" font-size="5.7" fill="#3A3A3A">5′ region (1–10)</text><rect x="256.465" y="48.1" width="134.929" height="4.2" fill="#F8DFD6"/><text x="323.929" y="59.1" text-anchor="middle" font-family="Arial" font-size="5.7" fill="#3A3A3A">Seed (13–20)</text><rect x="391.394" y="48.1" width="50.598" height="4.2" fill="#F8ECC8"/><text x="416.693" y="59.1" text-anchor="middle" font-family="Arial" font-size="5.7" fill="#3A3A3A">PAM (21–23)</text><rect x="155.268" y="64.3" width="168.661" height="4.2" fill="#D5ECDE"/><text x="239.598" y="75.3" text-anchor="middle" font-family="Arial" font-size="5.7" fill="#3A3A3A">Middle (7–16)</text><rect x="323.929" y="64.3" width="118.063" height="4.2" fill="#E1D9EF"/><text x="382.961" y="75.3" text-anchor="middle" font-family="Arial" font-size="5.7" fill="#3A3A3A">PAM-proximal (17–23)</text></svg>

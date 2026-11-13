@@ -1,8 +1,8 @@
 module,name,composition,dimensions
-FM1,Position-independent k-mers,Counts of 1-4-mers in the 23-nt sequence,340
+FM1,Position-independent k-mers,Non-overlapping counts of 1-4-mers in the 23-nt sequence,340
 FM2,Position-specific encoding,Indicators for 1-4-mers at each start position,6908
-FM3,Gapped dinucleotides,Dinucleotide counts at gaps 1-21,336
-FM4,Spacer k-mers,Spacer 1-4-mers and composition summaries,370
+FM3,Gapped dinucleotides,Dinucleotide counts with 1-21 intervening nucleotides,336
+FM4,Spacer k-mers,Overlapping spacer 1-4-mers and composition summaries,370
 FM5,Extended positional encoding,Spacer mononucleotide and dinucleotide indicators,426
 FM6,Regional gapped dinucleotides,Gapped dinucleotides in five sequence regions,480
 FM7,Regional summaries,Composition and complexity statistics in five regions,135

@@ -12,6 +12,8 @@ CRISPR Feature Engineering and Selection for sequence-based sgRNA activity predi
 - `figures/`: five manuscript figures in SVG, PDF, PNG, and TIFF
 - `tests/`: data, feature, model, and command-line checks
 
+Figure 1 can be regenerated from its [editable source and build script](figures/source/README.md).
+
 ## Setup
 
 Use Python 3.8–3.11 and the pinned dependencies. Python 3.12+ is not supported by these dependencies. The original environment uses Python 3.8.20 and scikit-learn 1.3.2. Open a terminal in the project root, which contains `requirements.txt`, before running commands.
