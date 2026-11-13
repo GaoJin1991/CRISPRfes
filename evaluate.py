@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Evaluate one SgFES group with the paper protocols."""
+"""Evaluate one CRISPRfes group with the paper protocols."""
 from __future__ import annotations
 
 import argparse
@@ -13,7 +13,7 @@ from sklearn.model_selection import KFold, StratifiedKFold
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from sgfes import config, datasets, features, modeling, selection
+from CRISPRfes import config, datasets, features, modeling, selection
 
 
 def folds_kfold(y, task, n_splits, seed):
@@ -49,7 +49,7 @@ def folds_loco(y, groups, task, n_splits=5, seed=1):
 
 def build_parser():
     parser = argparse.ArgumentParser(
-        description="Evaluate SgFES",
+        description="Evaluate CRISPRfes",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     parser.add_argument("--data", required=True, help="CSV or XLSX input")
@@ -78,7 +78,7 @@ def main(argv=None):
     started = time.time()
     spec = config.GROUPS[args.group]
     runs = args.B if args.B is not None else config.default_B(args.task)
-    print(f"SgFES-{args.group}: {spec['desc']}")
+    print(f"CRISPRfes-{args.group}: {spec['desc']}")
 
     data = datasets.load_dataset(
         args.data, args.task, args.seq_col, args.pam_col, args.label_col, args.group_col
@@ -119,6 +119,7 @@ def main(argv=None):
         selected_sets.append(set(columns.tolist()))
         rows.append({
             "fold": tag,
+            "held_out": tag.rsplit("_fold", 1)[0] if args.protocol == "loco" else "all",
             "n_train": len(train),
             "n_test": len(test),
             "n_features": len(columns),
@@ -130,15 +131,20 @@ def main(argv=None):
         )
 
     values = np.asarray([row[metric] for row in rows])
-    jaccard = selection.mean_pairwise_jaccard(selected_sets)
-    print(f"{metric}: {values.mean():.4f} +/- {values.std():.4f}")
+    jaccards = {}
+    for held_out in dict.fromkeys(row["held_out"] for row in rows):
+        indices = [i for i, row in enumerate(rows) if row["held_out"] == held_out]
+        jaccards[held_out] = selection.mean_pairwise_jaccard([selected_sets[i] for i in indices])
+        for i in indices:
+            rows[i]["mean_pairwise_jaccard"] = jaccards[held_out]
+    print(f"{metric}: {values.mean():.4f} +/- {values.std(ddof=1):.4f}")
     print(f"Mean selected features: {np.mean([row['n_features'] for row in rows]):.1f}")
-    print(f"Mean pairwise Jaccard: {jaccard:.4f}")
+    for held_out, value in jaccards.items():
+        print(f"Mean pairwise Jaccard ({held_out}): {value:.4f}")
     print(f"Elapsed: {(time.time() - started) / 60:.1f} min")
 
     if args.out:
         result = pd.DataFrame(rows)
-        result["mean_pairwise_jaccard"] = jaccard
         os.makedirs(os.path.dirname(os.path.abspath(args.out)) or ".", exist_ok=True)
         result.to_csv(args.out, index=False)
         print(f"Wrote {args.out}")

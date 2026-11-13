@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Train and save an SgFES model."""
+"""Train and save a CRISPRfes model."""
 from __future__ import annotations
 
 import argparse
@@ -11,12 +11,12 @@ import numpy as np
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from sgfes import config, datasets, features, modeling, selection
+from CRISPRfes import config, datasets, features, modeling, selection
 
 
 def build_parser():
     parser = argparse.ArgumentParser(
-        description="Train SgFES",
+        description="Train CRISPRfes",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     parser.add_argument("--data", required=True, help="CSV or XLSX training table")
@@ -70,7 +70,7 @@ def main(argv=None):
 
     scaler, model = modeling.fit(X[:, columns], fit_y, args.task)
     suffix = f"_holdout_{args.hold_out}" if args.hold_out else ""
-    out = args.out or os.path.join("models", f"sgfes_{args.task}_{args.group}{suffix}.joblib")
+    out = args.out or os.path.join("models", f"CRISPRfes_{args.task}_{args.group}{suffix}.joblib")
     bundle = modeling.new_bundle(
         args.task,
         args.group,
@@ -89,6 +89,8 @@ def main(argv=None):
             "label_zscored": bool(args.task == "regression" and args.zscore),
             "label_norm": label_norm,
             "n_features_total": int(X.shape[1]),
+            "class_labels": ([str(label) for label in data["label_mapping"]]
+                             if data["label_mapping"] is not None else None),
         },
     )
     modeling.save_bundle(out, bundle)

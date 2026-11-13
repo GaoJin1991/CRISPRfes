@@ -6,3 +6,5 @@
 *.png binary
 *.xlsx binary
 *.joblib binary
+*.tiff binary
+*.docx binary

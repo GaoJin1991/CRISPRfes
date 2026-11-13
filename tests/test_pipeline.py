@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 from openpyxl import load_workbook
 
-from sgfes import config, datasets, features, modeling, selection
+from CRISPRfes import config, datasets, features, modeling, selection
 from evaluate import folds_loco
 
 
@@ -35,9 +35,9 @@ class DataTests(unittest.TestCase):
     def test_reported_zebrafish_values(self):
         frame = pd.read_csv(ROOT / "results" / "zebrafish_external_tools.csv")
         observed = dict(zip(frame["method"], frame["spearman"]))
-        self.assertEqual(observed["SgFES-G1"], 0.412)
-        self.assertEqual(observed["SgFES-G2"], 0.432)
-        self.assertEqual(observed["SgFES-G3"], 0.456)
+        self.assertEqual(observed["CRISPRfes-G1"], 0.412)
+        self.assertEqual(observed["CRISPRfes-G2"], 0.432)
+        self.assertEqual(observed["CRISPRfes-G3"], 0.456)
 
     def test_human_external_tools(self):
         classification = pd.read_csv(ROOT / "results" / "human_classification.csv")
@@ -50,25 +50,22 @@ class DataTests(unittest.TestCase):
             float(classification.query("cell_line == 'HL60' and method == 'SSC'")["auroc_mean"].iloc[0]),
             0.811,
         )
-        self.assertEqual(
-            float(regression.query("cell_line == 'HL60' and method == 'CRISPRscan'")["spearman_mean"].iloc[0]),
-            0.441,
-        )
+        scores = external_regression.set_index(["cell_line", "method"])["spearman_mean"]
+        self.assertEqual(scores.loc["HL60", "SSC"], 0.4413)
+        self.assertEqual(scores.loc["HL60", "CRISPRscan"], 0.3581)
+        self.assertEqual(scores.loc["HeLa", "sgRNA Scorer"], 0.1413)
+        self.assertEqual(scores.loc["HeLa", "WU-CRISPR"], 0.159)
 
     def test_manuscript_tables(self):
-        table1 = load_workbook(ROOT / "tables" / "main_table1.xlsx", read_only=True)
-        table2 = load_workbook(ROOT / "tables" / "main_table2.xlsx", read_only=True)
         supplement = load_workbook(ROOT / "tables" / "supplementary_tables.xlsx", read_only=True)
         self.assertEqual(
-            table1.sheetnames,
-            ["Human classification", "Human regression", "Zebrafish regression"],
+            supplement.sheetnames,
+            ["Table S1", "Table S2A", "Table S2B", "Table S2C", "Table S3", "Table S4", "Table S5"],
         )
-        self.assertEqual(table2.sheetnames, ["Feature modules"])
-        self.assertEqual(supplement.sheetnames, ["Table S1", "Table S2", "Table S3"])
-        self.assertEqual(table1["Human classification"]["C6"].value, "0.894 ± 0.014")
-        self.assertEqual(table1["Zebrafish regression"]["B6"].value, "0.456 ± 0.033")
-        self.assertEqual(table2["Feature modules"]["A15"].value, "FM12 / Interaction features")
-        self.assertEqual(supplement["Table S3"]["A10"].value, "SgFES-G3")
+        self.assertEqual(supplement["Table S2A"]["C6"].value, "0.894 ± 0.014")
+        self.assertEqual(supplement["Table S2C"]["B6"].value, "0.456 ± 0.033")
+        self.assertEqual(supplement["Table S3"]["A9"].value, "CRISPRfes results are reported in Table S2C.")
+        supplement.close()
         self.assertTrue((ROOT / "tables" / "supplementary_tables.pdf").is_file())
 
     def test_vector_figures(self):

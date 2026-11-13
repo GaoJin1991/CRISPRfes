@@ -1,7 +1,12 @@
 __pycache__/
 *.py[cod]
 .venv/
+CRISPRfes_env/
 .idea/
 predictions.csv
-sgfes_predictions.csv
+CRISPRfes_predictions.csv
 reproduce_out/
+predictions/
+evaluation/
+models/reviewer_*.joblib
+models/reviewer_*.json
